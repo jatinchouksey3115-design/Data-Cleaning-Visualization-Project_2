@@ -1,0 +1,4 @@
+Column,IQR Lower Bound,IQR Upper Bound,Values Capped
+Quantity,-3.0,13.0,1
+Unit_Price,-37703.31,69207.31,10
+Total_Amount,-178991.99,329352.09,17
